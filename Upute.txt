@@ -1,0 +1,9 @@
+Jedna osoba nek kreira novi Github repozitorij, poveže lokalni i udaljeni repozitorij i pusha trenutno stanje na main branch. Isto tako, neka doda ostale članove tima u repozitorij kao članove. Zatim ostali mogu povući promjene. Svaka osoba u timu treba kreirati svoj feature branch i nazvati ga po tome što radi, npr feature/change-row-background-color. Napraviti svoje promjene na tom branchu i pushati promjene nakon što sve završi. Nakon toga treba kreirati pull request iz svog brancha na main branch i dodati ostale članove tima kao reviewere. Ostali trebaju pogledati promjene, komentirati po potrebi i approvati pull request ako je sve u redu. Nakon toga vlasnik brancha merga promjene u main branch direktno s Githuba. Mergajte jedan po jedan branch, nikad više istovremeno. Moguće da ćete nekad dobiti konflikte kod merganja, tad me možete pozvati.
+
+Promjene koje treba napraviti, dogovorite se što će tko (jedna promjena po osobi, može biti viška).
+
+1. Dodati background-color na parne retke
+2. Promijeniti Prirodno stanište i brzinu rasta u druga dva podatka
+3. Promijeniti font cijele aplikacije u neki google font
+4. Sakriti pokemone koji počinju na slova s i p
+5. Promijeniti boju headera iz plave u crvenu
