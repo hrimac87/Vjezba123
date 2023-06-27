@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 	function afterRender() {
 		$('[data-toggle="popover"]').popover();
-		$('table th').css('color', 'darkBlue');	
+		$('table th').css('color', 'red');	
 		
 		$('table tr').on('mouseenter', event => {
 			$(event.currentTarget).css('backgroundColor', 'yellow');
